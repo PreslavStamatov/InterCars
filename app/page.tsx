@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import Link from 'next/link'
 
-export default function Home() {
+export default function Login() {
   return (
   
     <div className='primaryTheme bg-white border-solid border-2 border-bg-primary flex flex-col justify-center items-center m-auto relative h-4/5 w-1/3 box-border rounded-xl' style={{top:'15%'}}>
